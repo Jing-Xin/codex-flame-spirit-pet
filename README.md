@@ -1,6 +1,6 @@
 # Flame Spirit — Codex Pet
 
-一个适用于 Codex 桌面端的自定义动态宠物，采用红、黑、金配色与火焰主题造型。
+一个适用于 Codex 桌面端的自定义动态宠物，焰灵姬原型。
 
 <img src="preview.png" alt="Flame Spirit preview" width="288">
 
