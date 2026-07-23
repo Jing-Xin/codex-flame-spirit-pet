@@ -2,7 +2,7 @@
 
 一个适用于 Codex 桌面端的自定义动态宠物，采用红、黑、金配色与火焰主题造型。
 
-<img src="preview.png" alt="Flame Spirit preview" width="192">
+<img src="preview.png" alt="Flame Spirit preview" width="288">
 
 ## 功能
 
@@ -45,9 +45,11 @@ flame-spirit/
 
 | Idle | Running | Waving | Jumping |
 | --- | --- | --- | --- |
-| <img src="previews/idle.gif" alt="Idle" width="192"> | <img src="previews/running-right.gif" alt="Running" width="192"> | <img src="previews/waving.gif" alt="Waving" width="192"> | <img src="previews/jumping.gif" alt="Jumping" width="192"> |
+| <img src="previews/idle.gif" alt="Idle" width="288"> | <img src="previews/running-right.gif" alt="Running" width="288"> | <img src="previews/waving.gif" alt="Waving" width="288"> | <img src="previews/jumping.gif" alt="Jumping" width="288"> |
 
 完整图集和方向检查图位于 [`qa/`](qa/) 目录。
+
+> README 中的展示动画由制作过程中的高清动作源生成；实际安装文件仍遵循 Codex v2 的 `192 × 208` 单帧规格。
 
 ## 兼容性
 
